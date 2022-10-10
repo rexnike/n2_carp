@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
                   setState(() {});
                 },
                 child: Image.asset(
-                  "assets/images/dice$DadoDerecho.png",
+                  "assets/images/dice$DadoDerecho.png",  // MODIFICACION
                 ),
               ),
               flex: 1,
